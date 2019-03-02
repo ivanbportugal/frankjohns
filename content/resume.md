@@ -33,6 +33,7 @@ _Member of the Loss Prevention/Audit steering committee of Retail Industry Leade
 ### Office Depot
 
 > Vice President of Global Loss Prevention
+>
 > August 1997 to August 2008
 
 Responsible for loss prevention of a $15.0 billion retail chain including 1150 stores, 50 warehouse locations, international and mail order warehouses. Responsibilities include shrink reduction, all aspects of safety, workers compensation reduction, credit and check fraud, alarm installations, physical security, investigations, ethics policy, IT security, BCP planning and crisis management.
@@ -53,6 +54,7 @@ _Board Member of the Office Depot Foundation_
 ### Mervynʼs
 
 > Director of Asset Protection - Internal Audit
+>
 > June 1993 to July 1997
 
 Responsible for Asset Protection and Internal Auditing of all assets within a $4.5 billion retail chain, including- Shortage Reduction; Physical Security; Profit Loss; Distribution Centers; and all Financial Controls and Systems.
@@ -71,6 +73,7 @@ Key Accomplishments:
 ### Montgomery Ward
 
 > Chicago, Il
+>
 > 1973 to 1993
 
 My career began in 1973 by joining Montgomery Ward as a salesman. Progressing from this position, I advanced through a series of increasingly challenging assignments. I left Montgomery Ward with 20 years of line and staff management experience in a broad range of merchandising and operating functions as well as expertise in sales promotion and employee development.
