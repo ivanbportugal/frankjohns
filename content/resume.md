@@ -1,17 +1,16 @@
 +++
-title = "Resume"
+aliases = ["about", "resume"]
 date = "2019-03-01"
-aliases = ["about","resume"]
+title = "Resume"
 type = "resume"
-[ author ]
-  name = "Frank Johns"
-+++
- 
+[author]
+name = "Frank Johns"
 
++++
 ### A.C. Moore Arts & Crafts Inc.
-> Senior V.P. of Stores,
-> Loss Prevention,
-> Audit, Ethics and Compliance
+
+> Senior V.P. of Stores, Loss Prevention, Audit, Ethics and Compliance
+>
 > August 2008 to June 2010
 
 Responsible for profit and loss including operating income, store controllable expenses and pretax profit in 133 retail locations. Responsibilities also include management of the loss prevention organization including shrink control, fraud, theft, workers compensation and general liability. Also responsible for strategic development and execution of audit program including SOX compliance and general management of corporate ethics and compliance policy, reporting to the Chairman of the Audit Committee.
@@ -26,13 +25,13 @@ Key Accomplishments:
 * Changed direction of stores to be more sales focused verses task focused resulting in increased average ticket and better sales performance.
 * Developed and implemented a Crisis Management Program reducing company risk during major weather and catastrophic events.
 
+_Chairman of the Board of the Loss Prevention Foundation_
+_Member of the Loss Prevention/Audit steering committee of Retail Industry Leaders Association_
 
-*Chairman of the Board of the Loss Prevention Foundation*
-*Member of the Loss Prevention/Audit steering committee of Retail Industry Leaders Association*
-
----
+***
 
 ### Office Depot
+
 > Vice President of Global Loss Prevention
 > August 1997 to August 2008
 
@@ -47,16 +46,16 @@ Key Accomplishments:
 * Developed P.O.S. exception reporting, resulting in 200% increase in fraud cases.
 * Executed a comprehensive security strategy domestically and internationally.
 
-*Board Member of the Office Depot Foundation*
+_Board Member of the Office Depot Foundation_
 
----
+***
 
 ### Mervynʼs
+
 > Director of Asset Protection - Internal Audit
 > June 1993 to July 1997
 
 Responsible for Asset Protection and Internal Auditing of all assets within a $4.5 billion retail chain, including- Shortage Reduction; Physical Security; Profit Loss; Distribution Centers; and all Financial Controls and Systems.
-
 
 Key Accomplishments:
 
@@ -67,9 +66,10 @@ Key Accomplishments:
 * Developed and implemented “Violence in the Workplace Program.”
 * Developed new Shortage/Safety Awareness Program.
 
----
+***
 
 ### Montgomery Ward
+
 > Chicago, Il
 > 1973 to 1993
 
