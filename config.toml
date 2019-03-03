@@ -1,84 +1,51 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
-
+[languages.en]
+copyright = "Frank Johns LP Consulting"
+homeSubtitle = "Loss Prevention Consulting"
+keywords = "loss prevention consulting"
+readOtherPosts = ""
+title = "Frank Johns"
+[languages.en.params.logo]
+logoHomeLink = "/"
+logoText = "FJ / LP"
+[[menu.main]]
+identifier = "profile"
+name = "Profile"
+url = "/profile"
+[[menu.main]]
+identifier = "philosophy"
+name = "Philosophy"
+url = "/philosophy"
+[[menu.main]]
+identifier = "consulting"
+name = "Consulting"
+url = "/consulting"
+[[menu.main]]
+identifier = "affiliations"
+name = "Affiliations"
+url = "/affiliations"
+[[menu.main]]
+identifier = "resume"
+name = "Resume"
+url = "/resume"
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-
-  authorPhone = "561-676-1835"
-
-  # Metadata mostly used in document's head
-  description = "Frank Johns LP Consulting"
-  keywords = ""
-  images = [""]
-
-  googleAnalyticsTrackingId = ""
-
-  # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-  # Default theme "light" or "dark"
-  defaultTheme = "dark"
-  disable404 = false
-
-    # Social icons
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:frankwjohns@gmail.com"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/frank-johns-lpc-34b488b/"
-
-[languages]
-  [languages.en]
-    title = "Frank Johns"
-    homeSubtitle = "Loss Prevention Consulting"
-    keywords = "loss prevention consulting"
-    copyright = "Frank Johns LP Consulting"
-    readOtherPosts = ""
-
-    [languages.en.params.logo]
-      logoText = "FJ / LP"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-
-	# You can create a language based menu
-    # [languages.en.menu]
-    #   [[languages.en.menu.main]]
-    #     identifier = "about"
-    #     name = "About"
-    #     url = "/about"
-    #   [[languages.en.menu.main]]
-    #     identifier = "showcase"
-    #     name = "Showcase"
-    #     url = "/showcase"
-
-# And you can even create generic menu
-[menu]
-  [[menu.main]]
-    identifier = "profile"
-    name       = "Profile"
-    url        = "/profile"
-  [[menu.main]]
-    identifier = "philosophy"
-    name       = "Philosophy"
-    url        = "/philosophy"
-  [[menu.main]]
-    identifier = "consulting"
-    name       = "Consulting"
-    url        = "/consulting"
-  [[menu.main]]
-    identifier = "affiliations"
-    name       = "Affiliations"
-    url        = "/affiliations"
-  [[menu.main]]
-    identifier = "resume"
-    name       = "Resume"
-    url        = "/resume"
+authorPhone = "561-676-1835"
+contentTypeName = "posts"
+dateform = "Jan 2, 2006"
+dateformNum = "2006-01-02"
+dateformNumTime = "2006-01-02 15:04 -0700"
+dateformShort = "Jan 2"
+defaultTheme = "dark"
+description = "Frank Johns LP Consulting"
+disable404 = false
+googleAnalyticsTrackingId = "UA-135507402-1"
+images = [""]
+keywords = ""
+[[params.social]]
+name = "email"
+url = "mailto:frankwjohns@gmail.com"
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/frank-johns-lpc-34b488b/"
