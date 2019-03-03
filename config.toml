@@ -49,3 +49,7 @@ url = "mailto:frankwjohns@gmail.com"
 [[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/frank-johns-lpc-34b488b/"
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
